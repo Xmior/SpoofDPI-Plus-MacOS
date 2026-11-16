@@ -1,0 +1,26 @@
+# Derleme çıktıları (DMG'ler GitHub Releases'e yüklenir)
+build/
+dist/
+*.dmg
+*.app/
+*.iconset/
+*.icns
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon?
+._*
+
+# Swift / Xcode
+.build/
+DerivedData/
+*.xcuserstate
+xcuserdata/
+.swiftpm/
+
+# Editörler
+.vscode/
+.idea/
+*.swp
