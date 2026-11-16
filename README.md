@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#türkçe">Türkçe</a> · <a href="#english">English</a> · <a href="../../releases">Releases</a>
+  <a href="#türkçe">Türkçe</a> · <a href="#english">English</a> · <a href="../../releases">Releases</a> · <a href="https://github.com/Xmior/SpoofDPI-Plus-Android">Android</a>
 </p>
 
 > SpoofDPI+ is not affiliated with the SpoofDPI project. It is an independent app that installs and manages SpoofDPI.
@@ -31,6 +31,8 @@ SpoofDPI+, Türkiye'deki DPI (Derin Paket İnceleme) engellerini aşmak için [S
 - **Discord:** Discord'u doğrudan proxy ile başlatır.
 - **Türkçe / İngilizce** arayüz (macOS sistem diline göre).
 - **Komut satırı aracı:** `spoofdpi-plus.sh` ile arayüz olmadan da her şey yapılabilir.
+
+> 📱 **Android sürümü:** [SpoofDPI+ Android](https://github.com/Xmior/SpoofDPI-Plus-Android)
 
 **Yapmadıkları:** Discord **sesli kanalları** çalışmayabilir; ses UDP ile gider ve HTTP proxy UDP taşıyamaz. ByeDPI, Zapret, WireGuard/WARP gibi başka yöntemler yoktur. Bunlara ihtiyacınız varsa [Çalışmazsa](#çalışmazsa) bölümüne bakın.
 
@@ -181,6 +183,8 @@ SpoofDPI+ installs [SpoofDPI](https://github.com/xvzc/SpoofDPI) with one click, 
 - **Turkish / English** interface (follows the macOS system language).
 - **Command-line tool:** everything also works without the app through `spoofdpi-plus.sh`.
 
+> 📱 **Android version:** [SpoofDPI+ Android](https://github.com/Xmior/SpoofDPI-Plus-Android)
+
 **What it doesn't do:** Discord **voice channels** may not work; voice uses UDP and an HTTP proxy cannot carry UDP. Other methods such as ByeDPI, Zapret or WireGuard/WARP are not included. If you need them, see [If it doesn't work](#if-it-doesnt-work).
 
 ### Download
@@ -330,6 +334,10 @@ Legacy/make_symbols.swift        SF Symbols → PNG
 AppIcon-1024.png                 Uygulama ikonu / app icon
 VERSION                          Sürüm / version
 ```
+
+## Diğer platformlar · Other platforms
+
+- [SpoofDPI+ Android](https://github.com/Xmior/SpoofDPI-Plus-Android): Android sürümü · Android version
 
 ## Teşekkürler · Credits
 
